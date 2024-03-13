@@ -7,7 +7,7 @@ import Controller.*;
 
 public class Main {
     //Jeu Munchkin
-    // test
+    // test commit
     public static void main(String[] args) {
         SwingUtilities.invokeLater(() -> {
 
